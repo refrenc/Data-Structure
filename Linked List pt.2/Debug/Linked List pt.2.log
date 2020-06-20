@@ -1,0 +1,49 @@
+﻿  CircularList.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,18): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,18): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,47): error C2182: 'CircularList': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,18): error C2059: 구문 오류: '<'
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,23): error C2039: 'InsertFront': '`global namespace''의 멤버가 아닙니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,47): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\CircularList.cpp(2,47): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  DblList.cpp
+  LinkedQueue.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,39): error C2182: 'LinkedQueue': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,17): error C2059: 구문 오류: '<'
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,22): error C2039: 'Push': '`global namespace''의 멤버가 아닙니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,39): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2,39): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,17): error C2182: 'LinkedQueue': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,6): error C2374: 'LinkedQueue': 재정의. 여러 번 초기화했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(2): message : 'LinkedQueue' 선언을 참조하십시오.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,17): error C2059: 구문 오류: '<'
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,22): error C2039: 'Pop': '`global namespace''의 멤버가 아닙니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,28): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedQueue.cpp(8,28): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  LinkedStack.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,39): error C2182: 'LinkedStack': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,17): error C2059: 구문 오류: '<'
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,22): error C2039: 'Push': '`global namespace''의 멤버가 아닙니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,39): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2,39): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,17): error C2182: 'LinkedStack': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,6): error C2374: 'LinkedStack': 재정의. 여러 번 초기화했습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(2): message : 'LinkedStack' 선언을 참조하십시오.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,17): error C2059: 구문 오류: '<'
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,22): error C2039: 'Pop': '`global namespace''의 멤버가 아닙니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,28): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\LinkedStack.cpp(7,28): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  MatrixNode.cpp
+  Polynomial.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\Polynomial.cpp(11,7): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\Polynomial.cpp(11,7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.2\Polynomial.cpp(11,18): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  코드를 생성하고 있습니다...

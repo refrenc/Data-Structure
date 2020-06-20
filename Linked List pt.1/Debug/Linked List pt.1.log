@@ -1,0 +1,17 @@
+﻿  Chain.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(52,1): error C2955: 'ChainNode': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(4): message : 'ChainNode' 선언을 참조하십시오.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(59): message : 컴파일되는 클래스 템플릿 인스턴스화 'Chain<T>'에 대한 참조를 확인하세요.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(68,16): error C2116: 'Chain<T>::Insert50': 함수 매개 변수 목록이 선언 간에 일치하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(52): message : 'Chain<T>::Insert50' 선언을 참조하십시오.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(68,42): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(76,16): error C2116: 'Chain<T>::Delete': 함수 매개 변수 목록이 선언 간에 일치하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(53): message : 'Chain<T>::Delete' 선언을 참조하십시오.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\Chain.cpp(76,57): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  ThreeLetterNode.cpp
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\ThreeLetterNode.cpp(16,7): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\ThreeLetterNode.cpp(16,7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\ThreeLetterNode.cpp(16,14): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\ThreeLetterNode.cpp(34,24): error C2011: 'ThreeLetterChain': 'class' 형식 재정의
+C:\Users\dndmd\source\repos\Data structure\Linked List pt.1\ThreeLetterNode.cpp(27): message : 'ThreeLetterChain' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

@@ -1,0 +1,6 @@
+﻿  MaxHeap.cpp
+C:\Users\dndmd\source\repos\Data structure\Tree pt.2\MaxHeap.cpp(18,17): error C2518: 'class' 키워드는 기본 클래스 목록에 사용할 수 없습니다. 클래스 이름이 필요합니다.
+C:\Users\dndmd\source\repos\Data structure\Tree pt.2\MaxHeap.cpp(27): message : 컴파일되는 클래스 템플릿 인스턴스화 'MaxHeap<T>'에 대한 참조를 확인하세요.
+C:\Users\dndmd\source\repos\Data structure\Tree pt.2\MaxHeap.cpp(18,28): error C2143: 구문 오류: ','이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Tree pt.2\MaxHeap.cpp(53,6): error C3861: 'isEmpty': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Tree pt.2\MaxHeap.cpp(53,13): message : 'isEmpty': 인수가 템플릿 매개 변수에 종속되지 않으므로 함수 선언을 사용할 수 있어야 합니다.

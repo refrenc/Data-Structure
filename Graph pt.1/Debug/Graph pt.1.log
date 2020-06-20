@@ -1,0 +1,6 @@
+﻿  LinkedGraph.cpp
+C:\Users\dndmd\source\repos\Data structure\Graph pt.1\LinkedGraph.cpp(4,7): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Graph pt.1\LinkedGraph.cpp(11): message : 컴파일되는 클래스 템플릿 인스턴스화 'LinkedGraph<T>'에 대한 참조를 확인하세요.
+C:\Users\dndmd\source\repos\Data structure\Graph pt.1\LinkedGraph.cpp(4,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Graph pt.1\LinkedGraph.cpp(4,1): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\dndmd\source\repos\Data structure\Graph pt.1\LinkedGraph.cpp(9,18): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '형식 지정자'입니다.

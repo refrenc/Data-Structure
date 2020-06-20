@@ -1,0 +1,25 @@
+﻿  Maze.cpp
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(53,17): error C3861: 'x': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(64,20): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(65,23): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(66,21): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(80,2): error C2065: 'mark': 선언되지 않은 식별자입니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(82,21): error C2440: '초기화 중': 'initializer list'에서 'Items'(으)로 변환할 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(82,21): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(101,10): error C2065: 'maze': 선언되지 않은 식별자입니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(101,27): error C2065: 'mark': 선언되지 않은 식별자입니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Maze.cpp(102,5): error C2065: 'mark': 선언되지 않은 식별자입니다.
+  Notation.cpp
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(42,17): error C3861: 'x': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(53,20): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(54,23): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(55,21): error C3861: 's': 식별자를 찾을 수 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(60,11): error C2065: 'Expression': 선언되지 않은 식별자입니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(60,22): error C2146: 구문 오류: ')'이(가) 'e' 식별자 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(60,25): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(60,25): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(71,14): error C2065: 'Expression': 선언되지 않은 식별자입니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(71,25): error C2146: 구문 오류: ')'이(가) 'e' 식별자 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(71,28): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\dndmd\source\repos\Data structure\Stack and Queue pt.2\Notation.cpp(71,28): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  코드를 생성하고 있습니다...

@@ -1,0 +1,9 @@
+﻿  GeneralArray.cpp
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(4,69): error C2061: 구문 오류: 식별자 'RangeList'
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(5,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(5,21): warning C4183: 'Retrieve': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(6,23): error C2061: 구문 오류: 식별자 'item'
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(6,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dndmd\source\repos\Data structure\Array pt.1\GeneralArray.cpp(6,24): warning C4183: 'Store': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  Rectangle.cpp
+  코드를 생성하고 있습니다...
